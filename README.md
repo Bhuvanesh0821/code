@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhuvanesh0821/code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
