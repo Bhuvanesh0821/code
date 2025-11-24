@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhuvanesh0821/code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhuvanesh0821/code/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvanesh0821/code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhuvanesh0821/code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvanesh0821/code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
