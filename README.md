@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhuvanesh0821/code/tree/master/0002-add-two-numbers) |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
 ## Array
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhuvanesh0821/code/tree/master/0002-add-two-numbers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Bhuvanesh0821/code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
