@@ -1,6 +1,8 @@
-class Solution(object):
+class Solution:
     def minOperations(self, nums, k):
-        s = sum(nums)
-        rem = s % k
-        return rem  # minimum ops required
-   
+        S = sum(nums)
+        return S % k
+
+
+
+        
