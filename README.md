@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhuvanesh0821/code/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvanesh0821/code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhuvanesh0821/code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhuvanesh0821/code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Bhuvanesh0821/code/tree/master/0010-regular-expression-matching) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhuvanesh0821/code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhuvanesh0821/code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
