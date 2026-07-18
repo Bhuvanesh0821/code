@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhuvanesh0821/code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Bhuvanesh0821/code/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Bhuvanesh0821/code/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvanesh0821/code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Recursion
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvanesh0821/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Bhuvanesh0821/code/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvanesh0821/code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhuvanesh0821/code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bhuvanesh0821/code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvanesh0821/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvanesh0821/code/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Two Pointers
 |  |
 | ------- |
