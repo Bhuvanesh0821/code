@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhuvanesh0821/code/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvanesh0821/code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Bhuvanesh0821/code/tree/master/0065-valid-number) |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhuvanesh0821/code/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Bhuvanesh0821/code/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Bhuvanesh0821/code/tree/master/0060-permutation-sequence) |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
 ## Array
@@ -92,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Bhuvanesh0821/code/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhuvanesh0821/code/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhuvanesh0821/code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Linked List
 |  |
