@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Bhuvanesh0821/code/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Bhuvanesh0821/code/tree/master/0076-minimum-window-substring) |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Recursion
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvanesh0821/code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Bhuvanesh0821/code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Bhuvanesh0821/code/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Bhuvanesh0821/code/tree/master/0076-minimum-window-substring) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhuvanesh0821/code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bhuvanesh0821/code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvanesh0821/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvanesh0821/code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Bhuvanesh0821/code/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |
