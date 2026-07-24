@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhuvanesh0821/code/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhuvanesh0821/code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Bhuvanesh0821/code/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Bhuvanesh0821/code/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bhuvanesh0821/code/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Bhuvanesh0821/code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Bhuvanesh0821/code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Bhuvanesh0821/code/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Bhuvanesh0821/code/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Bhuvanesh0821/code/tree/master/0060-permutation-sequence) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bhuvanesh0821/code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
