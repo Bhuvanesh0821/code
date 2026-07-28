@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Bhuvanesh0821/code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Bhuvanesh0821/code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Bhuvanesh0821/code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhuvanesh0821/code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhuvanesh0821/code/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhuvanesh0821/code/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Bhuvanesh0821/code/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Bhuvanesh0821/code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Bhuvanesh0821/code/tree/master/0077-combinations) |
 ## Monotonic Stack
 |  |
