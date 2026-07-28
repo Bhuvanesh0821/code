@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhuvanesh0821/code/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Bhuvanesh0821/code/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Bhuvanesh0821/code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Bhuvanesh0821/code/tree/master/0060-permutation-sequence) |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhuvanesh0821/code/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhuvanesh0821/code/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Bhuvanesh0821/code/tree/master/0025-reverse-nodes-in-k-group) |
 ## Sliding Window
 |  |
 | ------- |
