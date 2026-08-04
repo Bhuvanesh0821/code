@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Bhuvanesh0821/code/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Bhuvanesh0821/code/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhuvanesh0821/code/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhuvanesh0821/code/tree/master/0132-palindrome-partitioning-ii) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Bhuvanesh0821/code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Bhuvanesh0821/code/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Bhuvanesh0821/code/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhuvanesh0821/code/tree/master/0127-word-ladder) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhuvanesh0821/code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bhuvanesh0821/code/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Bhuvanesh0821/code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Bhuvanesh0821/code/tree/master/0077-combinations) |
+| [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
 |  |
@@ -227,9 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhuvanesh0821/code/tree/master/0127-word-ladder) |
 ## Trie
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
