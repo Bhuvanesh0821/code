@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhuvanesh0821/code/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhuvanesh0821/code/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Bhuvanesh0821/code/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhuvanesh0821/code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Bhuvanesh0821/code/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/Bhuvanesh0821/code/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhuvanesh0821/code/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhuvanesh0821/code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Bhuvanesh0821/code/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhuvanesh0821/code/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/Bhuvanesh0821/code/tree/master/0140-word-break-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhuvanesh0821/code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bhuvanesh0821/code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhuvanesh0821/code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhuvanesh0821/code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhuvanesh0821/code/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Bhuvanesh0821/code/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhuvanesh0821/code/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0877-stone-game](https://github.com/Bhuvanesh0821/code/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Bhuvanesh0821/code/tree/master/0077-combinations) |
 | [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/Bhuvanesh0821/code/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
 |  |
@@ -235,9 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Bhuvanesh0821/code/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Bhuvanesh0821/code/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
