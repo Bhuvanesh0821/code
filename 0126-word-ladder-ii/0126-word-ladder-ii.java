@@ -1,0 +1,68 @@
+import java.util.*;
+
+class Solution {
+    public List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
+        List<List<String>> result = new ArrayList<>();
+        Set<String> dict = new HashSet<>(wordList);
+        if (!dict.contains(endWord)) return result;
+
+        Map<String, List<String>> parents = new HashMap<>();
+        Set<String> currentLevel = new HashSet<>();
+        Set<String> visited = new HashSet<>();
+        currentLevel.add(beginWord);
+        visited.add(beginWord);
+        dict.remove(beginWord);
+
+        boolean found = false;
+
+        while (!currentLevel.isEmpty() && !found) {
+            // remove this level's words from dict AFTER processing (avoid same-level reuse)
+            Set<String> nextLevel = new HashSet<>();
+            Set<String> visitedThisLevel = new HashSet<>();
+
+            for (String word : currentLevel) {
+                char[] chars = word.toCharArray();
+                for (int i = 0; i < chars.length; i++) {
+                    char original = chars[i];
+                    for (char c = 'a'; c <= 'z'; c++) {
+                        if (c == original) continue;
+                        chars[i] = c;
+                        String next = new String(chars);
+                        if (dict.contains(next)) {
+                            if (next.equals(endWord)) found = true;
+                            nextLevel.add(next);
+                            visitedThisLevel.add(next);
+                            parents.computeIfAbsent(next, k -> new ArrayList<>()).add(word);
+                        }
+                    }
+                    chars[i] = original;
+                }
+            }
+
+            dict.removeAll(visitedThisLevel); // prevent revisiting in future levels
+            currentLevel = nextLevel;
+        }
+
+        if (found) {
+            LinkedList<String> path = new LinkedList<>();
+            path.add(endWord);
+            backtrack(endWord, beginWord, parents, path, result);
+        }
+
+        return result;
+    }
+
+    private void backtrack(String word, String beginWord, Map<String, List<String>> parents,
+                            LinkedList<String> path, List<List<String>> result) {
+        if (word.equals(beginWord)) {
+            result.add(new ArrayList<>(path));
+            return;
+        }
+        if (!parents.containsKey(word)) return;
+        for (String p : parents.get(word)) {
+            path.addFirst(p);
+            backtrack(p, beginWord, parents, path, result);
+            path.removeFirst();
+        }
+    }
+}
