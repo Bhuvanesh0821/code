@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
 | [1927-sum-game](https://github.com/Bhuvanesh0821/code/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhuvanesh0821/code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bhuvanesh0821/code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhuvanesh0821/code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bhuvanesh0821/code/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
+| [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhuvanesh0821/code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Bhuvanesh0821/code/tree/master/0135-candy) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1927-sum-game](https://github.com/Bhuvanesh0821/code/tree/master/1927-sum-game) |
+| [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
+| [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bhuvanesh0821/code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
 |  |
@@ -287,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Bhuvanesh0821/code/tree/master/0149-max-points-on-a-line) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
