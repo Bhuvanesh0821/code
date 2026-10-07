@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bhuvanesh0821/code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bhuvanesh0821/code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Bhuvanesh0821/code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Bhuvanesh0821/code/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvanesh0821/code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bhuvanesh0821/code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvanesh0821/code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bhuvanesh0821/code/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Bhuvanesh0821/code/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Bhuvanesh0821/code/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/0115-distinct-subsequences) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bhuvanesh0821/code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhuvanesh0821/code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bhuvanesh0821/code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Bhuvanesh0821/code/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
