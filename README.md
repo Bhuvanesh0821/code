@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bhuvanesh0821/code/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Bhuvanesh0821/code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Bhuvanesh0821/code/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Bhuvanesh0821/code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Bhuvanesh0821/code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhuvanesh0821/code/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Bhuvanesh0821/code/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Bhuvanesh0821/code/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/0115-distinct-subsequences) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvanesh0821/code/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Bhuvanesh0821/code/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Bhuvanesh0821/code/tree/master/0135-candy) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1927-sum-game](https://github.com/Bhuvanesh0821/code/tree/master/1927-sum-game) |
