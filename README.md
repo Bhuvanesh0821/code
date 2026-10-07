@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bhuvanesh0821/code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhuvanesh0821/code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bhuvanesh0821/code/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Bhuvanesh0821/code/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvanesh0821/code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhuvanesh0821/code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Bhuvanesh0821/code/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Bhuvanesh0821/code/tree/master/0056-merge-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Bhuvanesh0821/code/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
