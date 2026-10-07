@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Bhuvanesh0821/code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Bhuvanesh0821/code/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Bhuvanesh0821/code/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Bhuvanesh0821/code/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Bhuvanesh0821/code/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Bhuvanesh0821/code/tree/master/0076-minimum-window-substring) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Bhuvanesh0821/code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bhuvanesh0821/code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Bhuvanesh0821/code/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Bhuvanesh0821/code/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvanesh0821/code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Bhuvanesh0821/code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bhuvanesh0821/code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Bhuvanesh0821/code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Bhuvanesh0821/code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhuvanesh0821/code/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhuvanesh0821/code/tree/master/0127-word-ladder) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhuvanesh0821/code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhuvanesh0821/code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Bhuvanesh0821/code/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Bhuvanesh0821/code/tree/master/0049-group-anagrams) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
