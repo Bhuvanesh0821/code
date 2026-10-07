@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bhuvanesh0821/code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhuvanesh0821/code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Bhuvanesh0821/code/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Bhuvanesh0821/code/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/Bhuvanesh0821/code/tree/master/0149-max-points-on-a-line) |
 | [0877-stone-game](https://github.com/Bhuvanesh0821/code/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bhuvanesh0821/code/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhuvanesh0821/code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Bhuvanesh0821/code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvanesh0821/code/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Bhuvanesh0821/code/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Bhuvanesh0821/code/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/0115-distinct-subsequences) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Bhuvanesh0821/code/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bhuvanesh0821/code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
