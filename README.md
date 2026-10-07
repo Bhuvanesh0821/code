@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Bhuvanesh0821/code/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bhuvanesh0821/code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhuvanesh0821/code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Bhuvanesh0821/code/tree/master/0061-rotate-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhuvanesh0821/code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Bhuvanesh0821/code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Bhuvanesh0821/code/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Bhuvanesh0821/code/tree/master/0061-rotate-list) |
 ## Binary Search
 |  |
 | ------- |
