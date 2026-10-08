@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhuvanesh0821/code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
+| [2784-check-if-array-is-good](https://github.com/Bhuvanesh0821/code/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bhuvanesh0821/code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhuvanesh0821/code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhuvanesh0821/code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2784-check-if-array-is-good](https://github.com/Bhuvanesh0821/code/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhuvanesh0821/code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2784-check-if-array-is-good](https://github.com/Bhuvanesh0821/code/tree/master/2784-check-if-array-is-good) |
 ## Counting Sort
 |  |
 | ------- |
