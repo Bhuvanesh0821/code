@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhuvanesh0821/code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
+| [1306-jump-game-iii](https://github.com/Bhuvanesh0821/code/tree/master/1306-jump-game-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhuvanesh0821/code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhuvanesh0821/code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhuvanesh0821/code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1306-jump-game-iii](https://github.com/Bhuvanesh0821/code/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Bhuvanesh0821/code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bhuvanesh0821/code/tree/master/0127-word-ladder) |
+| [1306-jump-game-iii](https://github.com/Bhuvanesh0821/code/tree/master/1306-jump-game-iii) |
 ## Trie
 |  |
 | ------- |
