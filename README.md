@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Bhuvanesh0821/code/tree/master/1301-number-of-paths-with-max-score) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhuvanesh0821/code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhuvanesh0821/code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bhuvanesh0821/code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhuvanesh0821/code/tree/master/0075-sort-colors) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhuvanesh0821/code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhuvanesh0821/code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting Sort
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bhuvanesh0821/code/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Bhuvanesh0821/code/tree/master/0135-candy) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bhuvanesh0821/code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhuvanesh0821/code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1927-sum-game](https://github.com/Bhuvanesh0821/code/tree/master/1927-sum-game) |
 | [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 ## Linked List
