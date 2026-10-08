@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhuvanesh0821/code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhuvanesh0821/code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/Bhuvanesh0821/code/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
 | [2784-check-if-array-is-good](https://github.com/Bhuvanesh0821/code/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bhuvanesh0821/code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhuvanesh0821/code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Bhuvanesh0821/code/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/Bhuvanesh0821/code/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Bhuvanesh0821/code/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhuvanesh0821/code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Bhuvanesh0821/code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Bhuvanesh0821/code/tree/master/0075-sort-colors) |
+| [2540-minimum-common-value](https://github.com/Bhuvanesh0821/code/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Bhuvanesh0821/code/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhuvanesh0821/code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhuvanesh0821/code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/Bhuvanesh0821/code/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
