@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Bhuvanesh0821/code/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Bhuvanesh0821/code/tree/master/0212-word-search-ii) |
 | [0763-special-binary-string](https://github.com/Bhuvanesh0821/code/tree/master/0763-special-binary-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/Bhuvanesh0821/code/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Bhuvanesh0821/code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2573-find-the-string-with-lcp](https://github.com/Bhuvanesh0821/code/tree/master/2573-find-the-string-with-lcp) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Bhuvanesh0821/code/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhuvanesh0821/code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhuvanesh0821/code/tree/master/0085-maximal-rectangle) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhuvanesh0821/code/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
 |  |
 | ------- |
